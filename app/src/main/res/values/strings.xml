@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">About me</string>
+    <string name="myname">Parvez Ahmad Shaik</string>
+    <string name="yellow_star">yellow star</string>
+    <string name="bio">Hey,This is Parvez Ahmad Shaik
+    \n\n\n\nI am studying B.tech in ALTS
+    \n\n\n\nI am doing internship for the company easy_cloud
+    \n\n\n\nMy hobbies are playing games,browsing net,reading books,finding new things.
+    \n\n\n\nI am very much interested in innovations
+    \n\n\n\nNow Iam working on Android Development using Kotlin\n\n\n</string>
+    <string name="what_is_your_nick_name">What is your nick name</string>
+    <string name="done">Done</string>
+</resources>
